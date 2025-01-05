@@ -12,7 +12,7 @@ This is a to-do list web app named DoZo. I designed this app keeping in mind to 
 **Getting Started:
 
 1. Clone this repository.
-2. Open the `main.html` file in a web browser.
+2. Open the `index.html` file in a web browser.
 
 **Technologies Used:
 
